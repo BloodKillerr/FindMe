@@ -32,7 +32,7 @@
 
 <h2>Usage</h2>
 
-- When the game is launched, players start in main menu
+- When the game is launched, players start in the main menu
 - They can check out the settings or start a new game
 
 <h2>Gameplay Screenshots</h2>
